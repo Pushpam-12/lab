@@ -57,7 +57,7 @@
 <body>
     <div id="Login">
         <div class="SIGNUP-form">
-            <h1>LOGIN Form</h1>
+            <h1>SIGNUP FORM</h1>
             <div class="cart">
                 <form action="/Login" method="post">
                     <label>Full Name :</label>
