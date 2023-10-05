@@ -56,7 +56,7 @@
 
 <body>
     <div id="Login">
-        <div class="Login-form">
+        <div class="SIGNUP-form">
             <h1>Login Form</h1>
             <div class="cart">
                 <form action="/Login" method="post">
